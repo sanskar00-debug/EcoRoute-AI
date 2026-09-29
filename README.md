@@ -3,6 +3,9 @@
 > **Next-Generation Dynamic Waste Optimization Powered by AI and IoT Telemetry Grids.** 
 > Built solo for the 2nd NextGen Hackathon 2026.
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-sanskar00--debug-black?style=for-the-badge&logo=github)](https://github.com/sanskar00-debug)
+
+
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
