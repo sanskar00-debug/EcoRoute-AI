@@ -1,9 +1,23 @@
+
+<div align="center">
+
 # 🚚 EcoRoute AI
 
-> **Next-Generation Dynamic Waste Optimization Powered by AI and IoT Telemetry Grids.** 
-> Built solo for the 2nd NextGen Hackathon 2026.
-
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Portfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanskar00-debug.github.io/my-portfolio/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-sanskar00--debug-black?style=for-the-badge&logo=github)](https://github.com/sanskar00-debug)
+[![Status](https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge)]()
+
+<p align="center">
+   **Next-Generation Dynamic Waste Optimization Powered by AI and IoT Telemetry Grids.** 
+</p>
+
+<p align="center">
+Built solo for the 2nd NextGen Hackathon 2026..
+</p>
+
+[Explore Live Demo](https://sanskar00-debug.github.io/EcoRoute-AI/) • [Report Bug](https://github.com/sanskar00-debug/EcoRoute-AI/issues) • [Connect](#-contact--connect)
+
+</div>
 
 
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
