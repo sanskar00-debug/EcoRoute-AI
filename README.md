@@ -3,7 +3,7 @@
 
 # 🚚 EcoRoute AI
 
-[![Live Demo](https://img.shields.io/badge/Live Demo-EcoRoute AI-emerald?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanskar00-debug.github.io/EcoRoute-AI/)
+[![Live Demo](https://img.shields.io/badge/Live Demo-EcoRoute-AI-emerald?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanskar00-debug.github.io/EcoRoute-AI/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-sanskar00--debug-black?style=for-the-badge&logo=github)](https://github.com/sanskar00-debug)
 [![Status](https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge)]()
 
