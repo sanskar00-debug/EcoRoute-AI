@@ -14,7 +14,7 @@
 
 
 <p align="center">
-   **Next-Generation Dynamic Waste Optimization Powered by AI and IoT Telemetry Grids.** 
+ <strong>Next-Generation Dynamic Waste Optimization Powered by AI and IoT Telemetry Grids.</strong>
 </p>
 
 <p align="center">
