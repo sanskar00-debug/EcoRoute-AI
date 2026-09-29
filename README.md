@@ -3,10 +3,8 @@
 
 # 🚚 EcoRoute AI
 
-[![Live Demo](https://img.shields.io/badge/Live Demo-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sanskar00-debug.github.io/EcoRoute-AI/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-sanskar00--debug-black?style=for-the-badge&logo=github)](https://github.com/sanskar00-debug)
-[![Status](https://img.shields.io/badge/Status-Active_Development-success?style=for-the-badge)]()
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-sanskar00--debug-black?style=for-the-badge&logo=github)](https://github.com/sanskar00-debug)
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
